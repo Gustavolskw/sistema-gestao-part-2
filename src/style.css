@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+}
+
+#app {
+  text-align: left;
+  padding: 0;
+  max-width: none;
+}
